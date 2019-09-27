@@ -6,6 +6,6 @@ public class Ball : MonoBehaviour
 {
     public void Roll(int times)
     {
-        Debug.Log("Roll " + times + " harder times");
+        Debug.Log("Roll " + times + " harder times with the help of P1");
     }
 }
